@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./index.js"],"names":[],"mappings":"kHAAA,mB","file":"main.51cfe7706e05b16c546c.js","sourcesContent":["import './styles.css';\nconst Theme = {\n  LIGHT: 'light-theme',\n  DARK: 'dark-theme',\n};\n"],"sourceRoot":""}
